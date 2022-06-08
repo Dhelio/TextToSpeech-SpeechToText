@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['da_5fdk_5flanguage_0',['DA_DK_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eaf9a7d4d242816a4f88f6cc6dc7b25aab',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fkfm_5flocal_1',['DA_DK_X_KFM_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea24d1c368ee1803cee93149c30b276413',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fkfm_5fnetwork_2',['DA_DK_X_KFM_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea32be74b2c3b9d22eb98908e064195b09',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fnmm_5flocal_3',['DA_DK_X_NMM_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eae6869a7201a76f53a6d5673a0c0ee15c',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fnmm_5fnetwork_4',['DA_DK_X_NMM_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea686922fa2abbfdab28912374ff403096',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fsfp_5flocal_5',['DA_DK_X_SFP_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea66f5147ea456cecdd5c41123d0e11c52',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fsfp_5fnetwork_6',['DA_DK_X_SFP_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea1a3dd1f737117def0fb5e768f553bb00',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fvfb_5flocal_7',['DA_DK_X_VFB_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea501df19a22c4874d24c1e974c70d266e',1,'dhlworks::voicerecon::texttospeech']]],
+  ['da_5fdk_5fx_5fvfb_5fnetwork_8',['DA_DK_X_VFB_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea9146a16d75a2b6422f2e9f5c489eae17',1,'dhlworks::voicerecon::texttospeech']]],
+  ['danish_9',['DANISH',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280ea07eb231dcdac95718f2137d37c8e9687',1,'dhlworks::voicerecon']]],
+  ['de_5fde_5flanguage_10',['DE_DE_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eac209f413660402be55498909ce996a29',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fdeb_5flocal_11',['DE_DE_X_DEB_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eae2ca3ff0862a845d73d7d77f88e43450',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fdeb_5fnetwork_12',['DE_DE_X_DEB_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea1e0d5c597a58cd7f3655f755c1f4962b',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fdeg_5flocal_13',['DE_DE_X_DEG_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eabcc4442547fb06a74f1713d671c938d7',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fdeg_5fnetwork_14',['DE_DE_X_DEG_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eabcbf025f6b19e7a390475db3adbc08c9',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fnfh_5flocal_15',['DE_DE_X_NFH_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea01453c26d1bd4d706f3be96f5c786cab',1,'dhlworks::voicerecon::texttospeech']]],
+  ['de_5fde_5fx_5fnfh_5fnetwork_16',['DE_DE_X_NFH_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea126943ba2ff2246ec4038a846418ed24',1,'dhlworks::voicerecon::texttospeech']]],
+  ['delayed_17',['DELAYED',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_manager.html#a016b7798c9350af590ad61a944cd006fa8fa6bb7f7e55dca998113b78790aa60e',1,'dhlworks::voicerecon::speechtotext::SpeechToTextManager']]],
+  ['dutch_18',['DUTCH',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280ea93880f8c3d0e59d2b6ad9f842fa3d3a9',1,'dhlworks::voicerecon']]],
+  ['dutch_5fbelgium_19',['DUTCH_BELGIUM',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280eacf86b84ad4218777a1a0f153f9096d24',1,'dhlworks::voicerecon']]]
+];

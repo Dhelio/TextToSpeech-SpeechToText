@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['km_5fkh_5flanguage_0',['KM_KH_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea6fd619d9dfd1fa3ab2086257dcf9a790',1,'dhlworks::voicerecon::texttospeech']]],
+  ['km_5fkh_5fx_5fkhm_5flocal_1',['KM_KH_X_KHM_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea501a9133aac757c145c3f72779ce801f',1,'dhlworks::voicerecon::texttospeech']]],
+  ['km_5fkh_5fx_5fkhm_5fnetwork_2',['KM_KH_X_KHM_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eac4936e464169fc35a71bf5fc662994fe',1,'dhlworks::voicerecon::texttospeech']]],
+  ['kn_5fin_5flanguage_3',['KN_IN_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea23e64e3d9ae5792b4eed69e954146a49',1,'dhlworks::voicerecon::texttospeech']]],
+  ['kn_5fin_5fx_5fknf_5flocal_4',['KN_IN_X_KNF_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea48c7e39a725d83d87c309604126e8633',1,'dhlworks::voicerecon::texttospeech']]],
+  ['kn_5fin_5fx_5fknf_5fnetwork_5',['KN_IN_X_KNF_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea12d6c6fe055063dad44baff6edd831aa',1,'dhlworks::voicerecon::texttospeech']]],
+  ['kn_5fin_5fx_5fknm_5flocal_6',['KN_IN_X_KNM_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea95490895ff03f25041877d5495ed4378',1,'dhlworks::voicerecon::texttospeech']]],
+  ['kn_5fin_5fx_5fknm_5fnetwork_7',['KN_IN_X_KNM_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eab9777d036b8235374269cf82114e2561',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5flanguage_8',['KO_KR_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eac09165b5985646250608452ad3fb303f',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fism_5flocal_9',['KO_KR_X_ISM_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea669cd6d3f5c2273172d82ff336704e08',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fism_5fnetwork_10',['KO_KR_X_ISM_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea7eb7c8ffc725d0249ebc9076dfc5a509',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkob_5flocal_11',['KO_KR_X_KOB_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea3fabe74b973af2eae81e14b8289b646f',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkob_5fnetwork_12',['KO_KR_X_KOB_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eabb49c312c6a56f81fb5c5f74c801fdf7',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkoc_5flocal_13',['KO_KR_X_KOC_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea4b29be273db9d060330d84d5b88c0045',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkoc_5fnetwork_14',['KO_KR_X_KOC_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ead858bd04cf727764003800da30c1e4cf',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkod_5flocal_15',['KO_KR_X_KOD_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea650a477d33612cd00264f3cc8827d22d',1,'dhlworks::voicerecon::texttospeech']]],
+  ['ko_5fkr_5fx_5fkod_5fnetwork_16',['KO_KR_X_KOD_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea7d892424df2199707b3602b2344de661',1,'dhlworks::voicerecon::texttospeech']]],
+  ['korean_17',['KOREAN',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280eadcd90939dc8ad7a417313c5726cf732f',1,'dhlworks::voicerecon']]],
+  ['ku_18',['KU',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea54825aaa06bbce12baf1b2bf7f5edcab',1,'dhlworks::voicerecon::texttospeech']]]
+];

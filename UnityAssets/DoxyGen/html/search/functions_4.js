@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['onbeginningofspeech_0',['OnBeginningOfSpeech',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a8bbff5974d492e9a0f40e23b79d56353',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onbeginningofspeechcallback_1',['OnBeginningOfSpeechCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a0f53d1df3553a7980b4630382ef7d44a',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onbufferreceived_2',['OnBufferReceived',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a095a9d8cab48379d612efdfd033a112b',1,'dhlworks.voicerecon.speechtotext.SpeechToTextCallbacks.OnBufferReceived()'],['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a449a259d96bd85728eb23d1232ef5236',1,'dhlworks.voicerecon.speechtotext.test.OnBufferReceived()']]],
+  ['onendofspeech_3',['OnEndOfSpeech',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a9bf3a187e616c0e777e365cf1f66a4c2',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onendofspeechcallback_4',['OnEndOfSpeechCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a61eb0f4efe3b9edc0e59c9b67272945a',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onerror_5',['OnError',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a884a12d2d1e1e05972e12e61812cb307',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onerrorcallback_6',['OnErrorCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a24ea8c1b05a69fef4f3638dc068b3b9b',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onevent_7',['OnEvent',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#ab014a764bf7f43e7d45bcb037b047e14',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onpartialresult_8',['OnPartialResult',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#af7de404c18e138f4a5b0bc7090aff9ec',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onpartialresultscallback_9',['OnPartialResultsCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a0c23d736de4dbfb798da0334c938b471',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onreadyforspeech_10',['OnReadyForSpeech',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#ab5512f72262e5f6df25bd7b7381af7c6',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onreadyforspeechcallback_11',['OnReadyForSpeechCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#a83c37221938b43b25725cd5ecda7ceae',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onresult_12',['OnResult',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a3de9508110d74ec66ecc98a4aae6bb3b',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onresultcallback_13',['OnResultCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#aa3c61a75b8029a0e7caf51ec8f766fba',1,'dhlworks::voicerecon::speechtotext::test']]],
+  ['onrmschanged_14',['OnRmsChanged',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_callbacks.html#a1b73ef36e264d0d4d3eca6102294e341',1,'dhlworks::voicerecon::speechtotext::SpeechToTextCallbacks']]],
+  ['onrmschangedcallback_15',['OnRmsChangedCallback',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1test.html#ae38642e786078d1ceaa24aa23e4a9860',1,'dhlworks::voicerecon::speechtotext::test']]]
+];

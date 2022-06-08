@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['ca_0',['CA',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea3e8d115eb4b32b9e9479f387dbe14ee1',1,'dhlworks::voicerecon::texttospeech']]],
+  ['chinese_1',['CHINESE',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280eab8871e7778b1904d219f3dee9736ada7',1,'dhlworks::voicerecon']]],
+  ['chinese_5fhong_5fkong_2',['CHINESE_HONG_KONG',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280eab832841ba04d5d0ad9dafb0110515f88',1,'dhlworks::voicerecon']]],
+  ['chinese_5ftaiwan_3',['CHINESE_TAIWAN',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280ea560a88b300b15116750c4ec43ea9ea35',1,'dhlworks::voicerecon']]],
+  ['cmn_5fcn_5fx_5fccc_5flocal_4',['CMN_CN_X_CCC_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eab05208f5d01b4d477e744644cf65a182',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fccc_5fnetwork_5',['CMN_CN_X_CCC_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eae74cf7fb86fbf24059b30c28f62bf9f3',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fccd_5flocal_6',['CMN_CN_X_CCD_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea1c76e30454e6b212065e974a4423f52f',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fccd_5fnetwork_7',['CMN_CN_X_CCD_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea84d1141f569d8c7ea09481583d04fa32',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fcce_5flocal_8',['CMN_CN_X_CCE_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eacbdf9738687e44117bb359af553e6da3',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fcce_5fnetwork_9',['CMN_CN_X_CCE_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eadf0d65510beb78b232e368e473d63604',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fssa_5flocal_10',['CMN_CN_X_SSA_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eae03a84365b4e80254c89f4d1b6a4f374',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5fcn_5fx_5fssa_5fnetwork_11',['CMN_CN_X_SSA_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea1672e62251973d2201f8a72e3b9805de',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fctc_5flocal_12',['CMN_TW_X_CTC_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea845fd97c27225613a392187cf4f23cdb',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fctc_5fnetwork_13',['CMN_TW_X_CTC_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334eac7801e163d71b902add6017e75ea6d2d',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fctd_5flocal_14',['CMN_TW_X_CTD_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea40774aabc5cda3a94b0f5c1d08f0c247',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fctd_5fnetwork_15',['CMN_TW_X_CTD_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea3dd7a9b4c193b297cf7d7121d9fd37ab',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fcte_5flocal_16',['CMN_TW_X_CTE_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ead9db9f4a1aeb26b33942a572ab3141d9',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cmn_5ftw_5fx_5fcte_5fnetwork_17',['CMN_TW_X_CTE_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea5dcdaffc7cd1d0fb6926987cb952d751',1,'dhlworks::voicerecon::texttospeech']]],
+  ['continuous_18',['CONTINUOUS',['../classdhlworks_1_1voicerecon_1_1speechtotext_1_1_speech_to_text_manager.html#a016b7798c9350af590ad61a944cd006fab1fa9dd3af034b3ef4291579aa673c07',1,'dhlworks::voicerecon::speechtotext::SpeechToTextManager']]],
+  ['cs_5fcz_5flanguage_19',['CS_CZ_LANGUAGE',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea564c48689f297366904c8b35f2d5372d',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cs_5fcz_5fx_5fjfs_5flocal_20',['CS_CZ_X_JFS_LOCAL',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea2934ca9f514947ddb59e5617c00cb945',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cs_5fcz_5fx_5fjfs_5fnetwork_21',['CS_CZ_X_JFS_NETWORK',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea01b202e5da125017392f21da92863b86',1,'dhlworks::voicerecon::texttospeech']]],
+  ['cy_22',['CY',['../namespacedhlworks_1_1voicerecon_1_1texttospeech.html#a5147616b23ca8a3b6af91ad40712334ea9025a1ae8c64158622b7428028f0d2bd',1,'dhlworks::voicerecon::texttospeech']]],
+  ['czech_23',['CZECH',['../namespacedhlworks_1_1voicerecon.html#ab704e488d47d8b0e785bb843737b280eab590256219dcdfe1c255e3e3d3c6f00a',1,'dhlworks::voicerecon']]]
+];
