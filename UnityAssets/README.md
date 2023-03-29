@@ -1,6 +1,6 @@
 # Android Speech-To-Text and Text-To-Speech
 
-Hello, and thank you for buying my plugin!
+Hello, and thank you for getting my plugin!
 
 Here are a few instructions to guide you better through the plugin.
 
